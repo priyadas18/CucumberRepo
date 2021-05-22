@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CucumberRunner (1)" project="CucumberMaven" tests="3" started="3" failures="0" errors="0" ignored="3">
+  <testsuite name="testRunners.CucumberRunner" time="0.0">
+    <testsuite name="Feature: Login Validation" time="0.0">
+      <testsuite name="Scenario Outline: Verify User is able to login to Application" time="0.0">
+        <testsuite name="Examples:" time="0.0">
+          <testsuite name="| Priya | test1234 |" time="0.0" incomplete="true">
+            <skipped/>
+            <testcase name="Given User is on the Hompage" classname="| Priya | test1234 |" time="0.0" ignored="true"/>
+            <testcase name="When enter the &lt;&quot;username&quot;&gt; and &lt;&quot;password&quot;&gt;" classname="| Priya | test1234 |" time="0.0" ignored="true"/>
+            <testcase name="Then user should be successfully login to the application" classname="| Priya | test1234 |" time="0.0" ignored="true"/>
+          </testsuite>
+        </testsuite>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>
