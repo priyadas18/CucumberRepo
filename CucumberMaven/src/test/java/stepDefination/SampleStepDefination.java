@@ -23,7 +23,7 @@ public class SampleStepDefination {
 	@Then("^user should be successfully login to the application$")
 	public void user_should_be_successfully_login_to_the_application() throws Throwable {
 	    // Express the Regexp above with the code you wish you had
-		System.out.println("Successfully loggedIn");
+		System.out.println("User Successfully loggedIn");
 	}
 
 }
